@@ -7,6 +7,6 @@ Esse projeto foi feito com base no tutorial do Instagram - @gustavobarreto.dev<b
 </div>*/ -->
 ## 🚀 Starting
 
-Para iniciar o projeto, basta abrir o link `https://nathaliafelix31.github.io/LogoInstagram/` em seu navegador preferido.
+Para iniciar o projeto, basta abrir o link https://nathaliafelix31.github.io/LogoInstagram/ em seu navegador preferido.
 
 ---
